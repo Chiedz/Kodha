@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DELSERVE", "DELSERVE\DELSERVE.csproj", "{CAB44F36-8897-483F-9447-6670E219765E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DELSERVE.Tests", "DELSERVE.Tests\DELSERVE.Tests.csproj", "{0D899931-4A8A-4CE4-AD86-4C855053D879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB44F36-8897-483F-9447-6670E219765E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB44F36-8897-483F-9447-6670E219765E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB44F36-8897-483F-9447-6670E219765E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB44F36-8897-483F-9447-6670E219765E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D899931-4A8A-4CE4-AD86-4C855053D879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D899931-4A8A-4CE4-AD86-4C855053D879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D899931-4A8A-4CE4-AD86-4C855053D879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D899931-4A8A-4CE4-AD86-4C855053D879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C09F7A5-8217-4644-9089-36B3E7166FED}
+	EndGlobalSection
+EndGlobal
